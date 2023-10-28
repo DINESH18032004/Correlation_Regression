@@ -1,4 +1,6 @@
 # Correlation and regression for data analysis
+## DEVELOPED BY : DINESH KUMAR R
+## REG NO : 212222110010
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -24,6 +26,9 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 
-# Result
+# Output
+![Screenshot 2023-10-28 142835](https://github.com/Praveen0500/Correlation_Regression/assets/120218611/4e8b0408-93f9-4104-921d-788639e7856f)
 
-# Output 
+# result
+The Correlation and regression for data analysis of objects from feeder using probability
+distribution are calculated.
